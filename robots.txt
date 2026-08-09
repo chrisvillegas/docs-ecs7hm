@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-pngsdh.indocuan-vip.sbs/sitemap.xml
